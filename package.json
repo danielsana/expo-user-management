@@ -11,6 +11,7 @@
   "dependencies": {
     "@react-native-async-storage/async-storage": "1.23.1",
     "@rneui/themed": "^4.0.0-rc.8",
+    "@shopify/flash-list": "^1.7.2",
     "@supabase/supabase-js": "^2.46.1",
     "expo": "~51.0.28",
     "expo-status-bar": "~1.12.1",
